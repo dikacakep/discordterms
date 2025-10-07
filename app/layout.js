@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Discord Bot Legal',
   description: 'Terms of Service and Privacy Policy',
