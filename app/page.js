@@ -1,3 +1,5 @@
+'use client';
+
 import { useState } from 'react';
 import { FileText, Shield, ChevronRight, Bot } from 'lucide-react';
 
